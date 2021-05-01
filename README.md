@@ -12,6 +12,11 @@ This is Simple Flutter app, which uses OpenWeather API.</p>
 </ul></h4>
 
 
+<h1>API Information</h1>
+A scientific yet simple approach to weather forecast. Free. No ads.
+https://openweathermap.org/
+
+
 <h1>Application UI</h1>
 
 <img src="Images/image1.png" width="480 " height="852">
